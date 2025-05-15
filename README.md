@@ -24,4 +24,5 @@ In the Video Game Sales Dashboard project, I focused on enhancing user interacti
 
 This project gave me the opportunity to dive deeper into advanced DAX functions, enabling the creation of Year-over-Year (YoY) Sales Growth visuals. I also implemented dynamic conditional formatting to highlight performance based on growth rates.
 
-[Car Sales Dashboard.pdf](https://github.com/user-attachments/files/20234205/Car.Sales.Dashboard.pdf)
+![](https://github.com/LilyElizabethJohn/PowerBI-Portfolio-Projects/blob/274a67e40c74271dd78895883a7eec8f1415d76a/Car%20Sales%20Analysis/Car%20Sales%20Dashboard.jpg)
+
