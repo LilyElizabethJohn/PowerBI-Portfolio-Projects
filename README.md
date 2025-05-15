@@ -10,7 +10,7 @@ This portfolio reflects not just my technical growth, but also my analytical thi
 
 The HR Analytics project was a great opportunity to showcase my data visualization and formatting skills, focusing on clear, impactful visuals that highlight key HR metrics and trends.
 
-<img src="https://github.com/LilyElizabethJohn/PowerBI-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Attrition%20Analysis.pdf" width="128"/>
+[HR Attrition Analysis.pdf](https://github.com/user-attachments/files/20234189/HR.Attrition.Analysis.pdf)
 
 ## Video Game Sales
 
