@@ -16,6 +16,10 @@ The HR Analytics project was a great opportunity to showcase my data visualizati
 
 In the Video Game Sales Dashboard project, I focused on enhancing user interactivity by incorporating slicers and button navigators for seamless page-to-page navigation. This approach improved user experience and allowed for intuitive exploration of sales trends across different platforms, genres, and time periods.
 
+[Video Game Sales Analysis.pdf](https://github.com/user-attachments/files/20234203/Video.Game.Sales.Analysis.pdf)
+
 ## Car Sales Insights
 
 This project gave me the opportunity to dive deeper into advanced DAX functions, enabling the creation of Year-over-Year (YoY) Sales Growth visuals. I also implemented dynamic conditional formatting to highlight performance based on growth rates.
+
+[Car Sales Dashboard.pdf](https://github.com/user-attachments/files/20234205/Car.Sales.Dashboard.pdf)
