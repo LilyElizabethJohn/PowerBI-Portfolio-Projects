@@ -10,6 +10,8 @@ This portfolio reflects not just my technical growth, but also my analytical thi
 
 The HR Analytics project was a great opportunity to showcase my data visualization and formatting skills, focusing on clear, impactful visuals that highlight key HR metrics and trends.
 
+(https://github.com/LilyElizabethJohn/PowerBI-Portfolio-Projects/blob/main/HR%20Analytics/HR%20Attrition%20Analysis.pdf)
+
 ## Video Game Sales
 
 In the Video Game Sales Dashboard project, I focused on enhancing user interactivity by incorporating slicers and button navigators for seamless page-to-page navigation. This approach improved user experience and allowed for intuitive exploration of sales trends across different platforms, genres, and time periods.
