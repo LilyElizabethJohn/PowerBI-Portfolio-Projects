@@ -6,7 +6,7 @@ Creating this portfolio has been an exciting journey, allowing me to gain hands-
 
 This portfolio reflects not just my technical growth, but also my analytical thinking and problem-solving approach in turning raw data into impactful business intelligence.
 
-## HR Analytics
+## HR Attrition Analysis
 
 The HR Analytics project was a great opportunity to showcase my data visualization and formatting skills, focusing on clear, impactful visuals that highlight key HR metrics and trends.
 
